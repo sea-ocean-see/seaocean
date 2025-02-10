@@ -8,7 +8,7 @@ const Introduction = () => {
       <BackgroundSlider />
       <div className="relative z-10 max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <img
-          src="src\images\profilephoto.png"
+          src="src\images\profilephoto.jpg"
           alt="Sagar Kandel"
           className="w-32 h-32 rounded-full mx-auto mb-8 object-cover shadow-lg border-2 border-white/50"
         />
