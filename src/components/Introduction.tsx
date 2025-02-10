@@ -12,7 +12,7 @@ const Introduction = () => {
           alt="Sagar Kandel"
           className="w-32 h-32 rounded-full mx-auto mb-8 object-cover shadow-lg border-2 border-white/50"
         />
-        <h1 className="text-5xl font-bold text-white mb-4 drop-shadow-lg">Sagar Kandel</h1>
+        <h1 className="text-5xl font-bold text-white mb-4 drop-shadow-lg">Sagar Kandel </h1>
         <p className="text-2xl text-gray-200 mb-8 drop-shadow-md">Full-time Student & Part-time Researcher</p>
         <p className="text-lg text-gray-300 mb-8 max-w-2xl mx-auto drop-shadow-md">
         Welcome! I'm Sagar Kandel, a dedicated student and aspiring researcher with a strong passion for nanotechnology and its applications in genetic engineering, drug delivery, and regenerative medicine. My work primarily focuses on exploring how nanoparticles interact with different line of human cells, aiming to develop innovative biomedical solutions. From culturing HUVEC cells to synthesizing and testing nanoparticles, I am constantly seeking ways to bridge the gap between bioengineering and translational medicine.
