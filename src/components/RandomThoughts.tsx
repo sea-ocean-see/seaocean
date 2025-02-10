@@ -4,7 +4,7 @@ import { Quote } from 'lucide-react';
 const RandomThoughts = () => {
   const thoughts = [
     {
-      image: "https://images.unsplash.com/photo-1541123437800-1bb1317badc2?auto=format&fit=crop&w=1000&q=80",
+      image: "src\images\thought1.jpg",
       quote: "Parallax between variables become countless when the urge for rare sight of someone comprehend by their image of deception!!",
       date: "April 2024"
     }
