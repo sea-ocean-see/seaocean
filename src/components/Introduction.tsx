@@ -7,11 +7,11 @@ const Introduction = () => {
     <section id="intro" className="relative min-h-screen flex items-center justify-center">
       <BackgroundSlider />
       <div className="relative z-10 max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <img
+        {/* <img
           src="src\images\profilephoto.jpg"
           alt="Sagar Kandel"
           className="w-32 h-32 rounded-full mx-auto mb-8 object-cover shadow-lg border-2 border-white/50"
-        />
+        /> */}
         <h1 className="text-5xl font-bold text-white mb-4 drop-shadow-lg">Sagar Kandel</h1>
         <p className="text-2xl text-gray-200 mb-8 drop-shadow-md">Full-time Student & Part-time Researcher</p>
         <p className="text-lg text-gray-300 mb-8 max-w-2xl mx-auto drop-shadow-md">
